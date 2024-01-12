@@ -1,6 +1,8 @@
+/* eslint-disable react/prop-types */
 export default function Layout({ children }) {
   return (
-    <div className="w-full h-screen overflow-auto bg-white dark:bg-neutral-800 text-neutral-800 dark:text-white">
+    <div className="w-full h-screen overflow-auto bg-white text-neutral-800">
+      {/* {taruh navbar di sini} */}
       <div className="container px-8 py-4 mx-auto grow">{children}</div>
     </div>
   );
