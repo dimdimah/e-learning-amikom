@@ -5,6 +5,8 @@ const cardDatas = [
     description:
       "Mulailah dari awal dengan mempelajari dasar-dasar HTML - fondasi penting untuk membangun dan mengedit halaman web.",
     label: "free",
+    imageUrl:
+      "https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-ZOS4XDaMjR0",
   },
   {
     id_card: 2,
@@ -12,6 +14,8 @@ const cardDatas = [
     description:
       "In this CSS tutorial, you’ll learn how to add CSS to visually transform HTML into eye-catching sites.",
     label: "free",
+    imageUrl:
+      "https://unsplash.com/photos/person-using-macbook-pro-on-table-UcYBL5V0xWQ",
   },
   {
     id_card: 3,
@@ -19,6 +23,8 @@ const cardDatas = [
     description:
       "Bootstrap adalah sebuah framework yang paling populer digunakan untuk membuat sebuah website.",
     label: "free",
+    imageUrl:
+      "https://unsplash.com/photos/woman-in-red-and-black-jacket-using-macbook-ivF9IZSDML0",
   },
   {
     id_card: 4,
@@ -26,6 +32,8 @@ const cardDatas = [
     description:
       "Tailwind CSS adalah sebuah framework CSS yang berfokus pada utilitas, cocok untuk membuat UI yang modern, responsif, dan konsisten",
     label: "free",
+    imageUrl:
+      "https://unsplash.com/photos/black-tablet-computer-on-brown-wooden-table-taxUPTfDkpc",
   },
 ];
 
