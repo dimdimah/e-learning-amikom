@@ -144,6 +144,158 @@ const moduleDatas = [
       },
     ],
   },
+  {
+    id_module: 2,
+    title: "Belajar CSS",
+    link_modules: [
+      {
+        id_materi: 1,
+        title: "Apa itu CSS",
+        videoLink: "https://www.youtube.com/watch?v=AQOBN9XByf0&t=19s",
+        paragraph_1:
+          "HTML, atau HyperText Markup Language, adalah bahasa markup yang fundamental dalam pengembangan web. Dengan HTML, pengembang dapat merancang struktur dasar halaman web dengan mudah. Elemen-elemen HTML, yang diberi tag, seperti teks, gambar, dan tautan, memungkinkan penataan konten yang terstruktur.",
+        paragraph_2:
+          "Setiap elemen HTML memiliki peran khusus dalam membangun tata letak dan konten halaman. Misalnya, penggunaan tag <a> untuk tautan dan tag <img> untuk menyisipkan gambar. Pengembang juga dapat menetapkan atribut untuk memberikan fungsionalitas tambahan dan memperkaya pengalaman pengguna.",
+      },
+      {
+        id_materi: 2,
+        title: "Insline CSS",
+        videoLink: "https://www.youtube.com/watch?v=NuJxNI0GltM",
+        paragraph_1:
+          "Instalasi dan Persiapan HTML melibatkan serangkaian langkah penting untuk memulai pengembangan web. Pertama, pastikan Anda memiliki teks editor yang sesuai, seperti Visual Studio Code atau Sublime Text. Setelah mengunduh dan menginstal editor, buat file HTML baru dengan ekstensi HTML. Ini adalah awal dari struktur dasar dokumen HTML.",
+        paragraph_2:
+          "Kedua, inisialisasikan dokumen HTML dengan menambahkan tag <html>, <head>, dan <body>. Bagian <head> umumnya berisi elemen <meta> untuk menentukan set karakter, serta judul halaman dengan tag <title>. Sementara itu, bagian <body> akan berisi konten utama halaman Anda.",
+      },
+      {
+        id_materi: 3,
+        title: "Internal CSS",
+        videoLink: "https://www.youtube.com/watch?v=K_B2g1t0jVA",
+        paragraph_1:
+          "Saat Kita mempelajari HTML, penting untuk memahami struktur dasar dari sebuah dokumen HTML. Struktur ini mencakup elemen-elemen utama yang digunakan untuk membentuk halaman web yang dapat diakses dan dimengerti oleh browser. Dengan mengikuti struktur yang benar, Kita akan dapat membuat halaman web yang terstruktur dengan baik dan mudah dibaca oleh mesin pencari.",
+        paragraph_2:
+          "https://html.com/wp-content/uploads/html-homepage-layout-demo.webp",
+      },
+      {
+        id_materi: 4,
+        title: "Eksternal CSS",
+        videoLink: "https://www.youtube.com/watch?v=zYTdfOERybo",
+        paragraph_1:
+          "Heading dalam HTML digunakan untuk menentukan judul atau tingkatan teks dalam halaman web. Ada enam tingkatan heading yang dimulai dari <h1> (heading level 1) sebagai yang tertinggi hingga <h6> sebagai yang terendah. Penggunaan heading membantu struktur dan hierarki konten halaman, memungkinkan pembaca dan mesin pencari memahami organisasi informasi dengan lebih baik.",
+        paragraph_2:
+          "Paragraf dalam HTML, diwakili oleh tag <p>, digunakan untuk menyusun teks menjadi blok-blok berbeda. Setiap tag <p> membungkus sekelompok teks yang membentuk satu paragraf. Paragraf memainkan peran penting dalam membuat konten lebih terbaca dan terstruktur. Dengan memisahkan teks ke dalam paragraf-paragraf, pengembang dapat memberikan tata letak yang jelas dan nyaman untuk pembaca.",
+      },
+      {
+        id_materi: 5,
+        title: "CSS Selector",
+        videoLink: "https://www.youtube.com/watch?v=MiIo71YFvPg",
+        paragraph_1:
+          "Underline dalam HTML dapat diterapkan pada teks menggunakan tag <u>. Penggunaan tag ini akan memberikan efek garis bawah pada teks yang dilingkupinya. Meskipun tag <u> dapat memberikan garis bawah, penggunaannya disarankan untuk dihindari kecuali dalam konteks khusus, karena banyak pembaca mengasumsikan hyperlink sebagai satu-satunya elemen yang seharusnya memiliki garis bawah.",
+        paragraph_2:
+          "Superscript dan subscript adalah gaya teks yang ditempatkan di atas (superscript) atau di bawah (subscript) garis dasar. Superscript ditandai dengan tag <sup>, sementara subscript ditandai dengan tag <sub>. Superscript sering digunakan untuk notasi eksponen, seperti x², sedangkan subscript berguna untuk simbol kimia atau matematika, seperti H₂O.",
+      },
+      {
+        id_materi: 6,
+        title: "Aturan Cascade",
+        videoLink: "https://www.youtube.com/watch?v=kwMwjH26pSk",
+      },
+      {
+        id_materi: 7,
+        title: "Inheritance",
+        videoLink: "https://www.youtube.com/watch?v=NqeO9fiRPVE",
+      },
+      {
+        id_materi: 8,
+        title: "Color",
+        videoLink: "https://www.youtube.com/watch?v=agM8Ayn8WZY",
+      },
+      {
+        id_materi: 9,
+        title: "Font Family, Size, Weight, Style & Decoration",
+        videoLink: "https://www.youtube.com/watch?v=-ppX6hEz0iE",
+      },
+      {
+        id_materi: 10,
+        title: "Transform, Align, Color, Shadow, Hover, Active,Visited",
+        videoLink: "https://www.youtube.com/watch?v=CpxP8iqEadU",
+      },
+      {
+        id_materi: 11,
+        title: "Box, Height, Width, Overflow",
+        videoLink: "https://www.youtube.com/watch?v=zoCI0nFzlso",
+      },
+      {
+        id_materi: 12,
+        title: "Pengenalan Box Model",
+        videoLink: "https://www.youtube.com/watch?v=863FJqp4FAw",
+      },
+      {
+        id_materi: 13,
+        title: "Padding",
+        videoLink: "https://www.youtube.com/watch?v=h2R28wkY6sA",
+      },
+      {
+        id_materi: 14,
+        title: "Margin",
+        videoLink: "https://www.youtube.com/watch?v=wr3leWJ65yM",
+      },
+    ],
+  },
+  {
+    id_module: 3,
+    title: "Framework Bootstrap 5",
+    link_modules: [
+      {
+        id_materi: 1,
+        title: "Pengenalan Bootstrap 5",
+        videoLink: "https://www.youtube.com/watch?v=WB2X_AG-SSo&t=86s",
+        paragraph_1:
+          "HTML, atau HyperText Markup Language, adalah bahasa markup yang fundamental dalam pengembangan web. Dengan HTML, pengembang dapat merancang struktur dasar halaman web dengan mudah. Elemen-elemen HTML, yang diberi tag, seperti teks, gambar, dan tautan, memungkinkan penataan konten yang terstruktur.",
+        paragraph_2:
+          "Setiap elemen HTML memiliki peran khusus dalam membangun tata letak dan konten halaman. Misalnya, penggunaan tag <a> untuk tautan dan tag <img> untuk menyisipkan gambar. Pengembang juga dapat menetapkan atribut untuk memberikan fungsionalitas tambahan dan memperkaya pengalaman pengguna.",
+      },
+      {
+        id_materi: 2,
+        title: "Instalasi Bootstrap 5",
+        videoLink: "https://www.youtube.com/watch?v=z4EZZjrLsvE&t=24s",
+        paragraph_1:
+          "Instalasi dan Persiapan HTML melibatkan serangkaian langkah penting untuk memulai pengembangan web. Pertama, pastikan Anda memiliki teks editor yang sesuai, seperti Visual Studio Code atau Sublime Text. Setelah mengunduh dan menginstal editor, buat file HTML baru dengan ekstensi HTML. Ini adalah awal dari struktur dasar dokumen HTML.",
+        paragraph_2:
+          "Kedua, inisialisasikan dokumen HTML dengan menambahkan tag <html>, <head>, dan <body>. Bagian <head> umumnya berisi elemen <meta> untuk menentukan set karakter, serta judul halaman dengan tag <title>. Sementara itu, bagian <body> akan berisi konten utama halaman Anda.",
+      },
+      {
+        id_materi: 3,
+        title: "Responsive, Breakpoints, Container, Grid",
+        videoLink: "https://www.youtube.com/watch?v=imwbwbF8pgw",
+        paragraph_1:
+          "Saat Kita mempelajari HTML, penting untuk memahami struktur dasar dari sebuah dokumen HTML. Struktur ini mencakup elemen-elemen utama yang digunakan untuk membentuk halaman web yang dapat diakses dan dimengerti oleh browser. Dengan mengikuti struktur yang benar, Kita akan dapat membuat halaman web yang terstruktur dengan baik dan mudah dibaca oleh mesin pencari.",
+        paragraph_2:
+          "https://html.com/wp-content/uploads/html-homepage-layout-demo.webp",
+      },
+      {
+        id_materi: 4,
+        title: "Membuat Navbar dan Menu Bar dengan Bootstrap",
+        videoLink: "https://www.youtube.com/watch?v=zxxRuRH0iuI",
+        paragraph_1:
+          "Heading dalam HTML digunakan untuk menentukan judul atau tingkatan teks dalam halaman web. Ada enam tingkatan heading yang dimulai dari <h1> (heading level 1) sebagai yang tertinggi hingga <h6> sebagai yang terendah. Penggunaan heading membantu struktur dan hierarki konten halaman, memungkinkan pembaca dan mesin pencari memahami organisasi informasi dengan lebih baik.",
+        paragraph_2:
+          "Paragraf dalam HTML, diwakili oleh tag <p>, digunakan untuk menyusun teks menjadi blok-blok berbeda. Setiap tag <p> membungkus sekelompok teks yang membentuk satu paragraf. Paragraf memainkan peran penting dalam membuat konten lebih terbaca dan terstruktur. Dengan memisahkan teks ke dalam paragraf-paragraf, pengembang dapat memberikan tata letak yang jelas dan nyaman untuk pembaca.",
+      },
+      {
+        id_materi: 5,
+        title: "Bootstrap Utilities | Bootstrap Utility Classes",
+        videoLink: "https://www.youtube.com/watch?v=h64nu64lz8Q",
+        paragraph_1:
+          "Underline dalam HTML dapat diterapkan pada teks menggunakan tag <u>. Penggunaan tag ini akan memberikan efek garis bawah pada teks yang dilingkupinya. Meskipun tag <u> dapat memberikan garis bawah, penggunaannya disarankan untuk dihindari kecuali dalam konteks khusus, karena banyak pembaca mengasumsikan hyperlink sebagai satu-satunya elemen yang seharusnya memiliki garis bawah.",
+        paragraph_2:
+          "Superscript dan subscript adalah gaya teks yang ditempatkan di atas (superscript) atau di bawah (subscript) garis dasar. Superscript ditandai dengan tag <sup>, sementara subscript ditandai dengan tag <sub>. Superscript sering digunakan untuk notasi eksponen, seperti x², sedangkan subscript berguna untuk simbol kimia atau matematika, seperti H₂O.",
+      },
+      {
+        id_materi: 6,
+        title: "Membuat Banner Tanpa Jumbotron",
+        videoLink: "https://www.youtube.com/watch?v=YaxN6nAm2-A",
+      },
+    ],
+  },
 ];
 
 export default { cardDatas, moduleDatas };
