@@ -174,37 +174,29 @@ const moduleDatas = [
         id_materi: 1,
         title: "Apa itu CSS",
         videoLink: "https://www.youtube.com/watch?v=AQOBN9XByf0&t=19s",
-        paragraph_1:
-          "HTML, atau HyperText Markup Language, adalah bahasa markup yang fundamental dalam pengembangan web. Dengan HTML, pengembang dapat merancang struktur dasar halaman web dengan mudah. Elemen-elemen HTML, yang diberi tag, seperti teks, gambar, dan tautan, memungkinkan penataan konten yang terstruktur.",
-        paragraph_2:
-          "Setiap elemen HTML memiliki peran khusus dalam membangun tata letak dan konten halaman. Misalnya, penggunaan tag <a> untuk tautan dan tag <img> untuk menyisipkan gambar. Pengembang juga dapat menetapkan atribut untuk memberikan fungsionalitas tambahan dan memperkaya pengalaman pengguna.",
+        paragraph_1: "",
+        paragraph_2: "",
       },
       {
         id_materi: 2,
         title: "Insline CSS",
         videoLink: "https://www.youtube.com/watch?v=NuJxNI0GltM",
-        paragraph_1:
-          "Instalasi dan Persiapan HTML melibatkan serangkaian langkah penting untuk memulai pengembangan web. Pertama, pastikan Anda memiliki teks editor yang sesuai, seperti Visual Studio Code atau Sublime Text. Setelah mengunduh dan menginstal editor, buat file HTML baru dengan ekstensi HTML. Ini adalah awal dari struktur dasar dokumen HTML.",
-        paragraph_2:
-          "Kedua, inisialisasikan dokumen HTML dengan menambahkan tag <html>, <head>, dan <body>. Bagian <head> umumnya berisi elemen <meta> untuk menentukan set karakter, serta judul halaman dengan tag <title>. Sementara itu, bagian <body> akan berisi konten utama halaman Anda.",
+        paragraph_1: "",
+        paragraph_2: "",
       },
       {
         id_materi: 3,
         title: "Internal CSS",
         videoLink: "https://www.youtube.com/watch?v=K_B2g1t0jVA",
-        paragraph_1:
-          "Saat Kita mempelajari HTML, penting untuk memahami struktur dasar dari sebuah dokumen HTML. Struktur ini mencakup elemen-elemen utama yang digunakan untuk membentuk halaman web yang dapat diakses dan dimengerti oleh browser. Dengan mengikuti struktur yang benar, Kita akan dapat membuat halaman web yang terstruktur dengan baik dan mudah dibaca oleh mesin pencari.",
-        paragraph_2:
-          "https://html.com/wp-content/uploads/html-homepage-layout-demo.webp",
+        paragraph_1: "",
+        paragraph_2: "",
       },
       {
         id_materi: 4,
         title: "Eksternal CSS",
         videoLink: "https://www.youtube.com/watch?v=zYTdfOERybo",
-        paragraph_1:
-          "Heading dalam HTML digunakan untuk menentukan judul atau tingkatan teks dalam halaman web. Ada enam tingkatan heading yang dimulai dari <h1> (heading level 1) sebagai yang tertinggi hingga <h6> sebagai yang terendah. Penggunaan heading membantu struktur dan hierarki konten halaman, memungkinkan pembaca dan mesin pencari memahami organisasi informasi dengan lebih baik.",
-        paragraph_2:
-          "Paragraf dalam HTML, diwakili oleh tag <p>, digunakan untuk menyusun teks menjadi blok-blok berbeda. Setiap tag <p> membungkus sekelompok teks yang membentuk satu paragraf. Paragraf memainkan peran penting dalam membuat konten lebih terbaca dan terstruktur. Dengan memisahkan teks ke dalam paragraf-paragraf, pengembang dapat memberikan tata letak yang jelas dan nyaman untuk pembaca.",
+        paragraph_1: "",
+        paragraph_2: "",
       },
       {
         id_materi: 5,
